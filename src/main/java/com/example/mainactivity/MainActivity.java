@@ -1,3 +1,5 @@
+//Sample Java imports
+
 package com.example.mainactivity;
 
 import androidx.appcompat.app.AppCompatActivity;
